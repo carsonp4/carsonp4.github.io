@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Carson Payne"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/bio-photo.jpg"
   bio    : "Hi! My name is Carson and this site is a place where I share some of the data science and machine learning projects that I work on in my free time."
   links:
     - label: "Website"
